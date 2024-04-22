@@ -21,6 +21,5 @@
 <body>
     <h1>¡Hola! Paula Andrea</h1>
     <p>Usuario Registrado</p>
-    <img src="https://ruta-de-tu-imagen-en-internet.jpg" alt="Descripción de la imagen" class="imagen">
 </body>
 </html>
