@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  InformaciónImportante
+  Información Importante
 </head>
 <body>
     <h1>¡Hola! Paula Andrea </h1>
