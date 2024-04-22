@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Información</title>
+   Información
 </head>
 <body>
-    <h1>¡Hola! Esta es la información que deseas mostrar.</h1>
-    <p>Aquí puedes escribir lo que quieras.</p>
+    <h1>¡Hola! Paula Andrea, Ingeniera.</h1>
+    <p>Usuario Registrado.</p>
 </body>
 </html>
 
