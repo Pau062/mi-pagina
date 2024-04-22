@@ -1,25 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Información Importante</title>
-    <style>
-        body {
-            background-color: #f0f0f0; /* Color de fondo */
-        }
-        h1 {
-            color: #333333; /* Color del texto del encabezado */
-        }
-        p {
-            color: #666666; /* Color del texto del párrafo */
-        }
-        .imagen {
-            width: 100%; /* Ancho de la imagen */
-            height: auto; /* Altura automática para mantener la proporción */
-        }
-    </style>
+    <title>Información</title>
 </head>
 <body>
-    <h1>¡Hola! Paula Andrea</h1>
-    <p>Usuario Registrado</p>
+    <h1>¡Hola! Esta es la información que deseas mostrar.</h1>
+    <p>Aquí puedes escribir lo que quieras.</p>
 </body>
 </html>
+
+
