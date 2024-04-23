@@ -21,7 +21,6 @@
 <body>
     <h1>¡Hola! Paula Andrea</h1>
     <p>Usuario Registrado</p>
-    <img src="https://github.com/tu-usuario/mi-pagina/raw/main/Andrea.jpg" alt="Andrea" class="imagen">
+    <img src="https://tu-servidor.com/Andrea.jpg" alt="Paula Andrea" class="imagen">
 </body>
 </html>
-
