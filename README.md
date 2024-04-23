@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
     <title>Información Importante</title>
@@ -22,5 +22,7 @@
     <h1>¡Hola! Paula Andrea</h1>
     <p>Usuario Registrado</p>
     <img src="https://github.com/Pau062/mi-pagina-web/blob/main/Andrea.jpg?raw=true" alt="Paula Andrea" class="imagen">
+    <p>Gracias por registrate</p>
+    <p>Disfruta</p>
 </body>
 </html>
