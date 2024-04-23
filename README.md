@@ -20,6 +20,8 @@
 </head>
 <body>
     <h1>¡Hola! Paula Andrea</h1>
+     <p>Tu usuario es: Andrea06</p>
+     <p>Tu correo es: andrea0351@gmail.com</p>
     <p>Usuario Registrado</p>
     <img src="https://github.com/Pau062/mi-pagina-web/blob/main/Andrea.jpg?raw=true" alt="Paula Andrea" class="imagen">
     <p>Gracias por registrate</p>
